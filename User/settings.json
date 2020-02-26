@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 25,
+    "go.formatTool": "gofmt",
+    "go.autocompleteUnimportedPackages": true,
+    "go.gocodePackageLookupMode": "go",
+    "go.gotoSymbol.includeImports": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.inferGopath": true,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "go.useLanguageServer": true,
+    "editor.fontFamily": " Monaco",
+    "dart.openDevTools": "flutter"
+}
